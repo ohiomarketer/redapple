@@ -163,12 +163,11 @@ export const Payment = () => {
                     top: "10px",
                     right: "10px",
                     cursor: 'pointer'
-                }} onClick={() => copyCBUToClipboard('0000076500000022615033')}></ion-icon>
+                }} onClick={() => copyCBUToClipboard('0110616530061602978215')}></ion-icon>
             <ul className='transfer-list'>
-                <li className='item'>CUENTA:  Jorge Fernando Alderete</li>
-                <li className='item' ref={cbuRef}>CBU: 0000076500000024743011</li>
-                <li className='item'>ALIAS: jalderete137.ppay</li>
-                <li className='item'>CUIT: 20-41299610-1</li>
+                <li className='item'>CUENTA: Rodrigo Cesar</li>
+                <li className='item' ref={cbuRef}>CBU: 0110616530061602978215</li>
+                <li className='item'>CUIT: 23-44280388-9</li>
                 <li className='item'>
                     <button className="transfer-btn" onClick={() => {
                         Swal.fire({
@@ -184,7 +183,7 @@ export const Payment = () => {
                             denyButtonAriaLabel: 'Enviar por Email',
                         }).then((result) => {
                             if (result.isConfirmed) {
-                                window.open('https://www.instagram.com/redappleoficial/', '_blank');
+                                window.open('https://www.instagram.com/redappleoficial_/', '_blank');
                                 Swal.fire('Redirigido a Instagram', '', 'info');
                             } else if (result.isDenied) {
                                 window.open('mailto: iphonetemple39@gmail.com', '_blank');
