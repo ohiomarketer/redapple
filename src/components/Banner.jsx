@@ -8,7 +8,7 @@ export const Banner = () => {
     }}>
         <div className='banner__content'>
             <h1 className='banner__title'>Ofertas Imperdibles</h1>
-            <p className='banner__description'>Aprovecha las increibles ofertas que tenemos para vos desde el 10 de Abril hasta el 15 de Julio. Comprando por transferencia bancaria tenes un 15% de descuento adicional.</p>
+            <p className='banner__description'>Descubre nuestra amplia selección de teléfonos Apple, con una variedad de modelos y características para adaptarse a tus necesidades. Navega por nuestras ofertas y encuentra el dispositivo perfecto para ti.</p>
             <a href="#products">
             <button className="banner__button">
                 Ver ofertas
