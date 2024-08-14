@@ -112,7 +112,7 @@ export const Payment = () => {
                     </div>
                     <div className={`payment-method ${paymentOption === 'transfer' ? 'active' : ''}`}>
                         <input type="radio" name="payment" id="transfer" onChange={handlePaymentOptionChange} />
-                        <label htmlFor="transfer">Transferencia Bancaria (15%OFF)</label>
+                        <label htmlFor="transfer">Transferencia Bancaria</label>
                     </div>
                 </div>
 
