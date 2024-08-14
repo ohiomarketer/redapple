@@ -56,7 +56,7 @@ export const Footer = () => {
                 <ion-icon name="location"></ion-icon>
 
                 <span className="footer-link-text">
-                  Avenida Medrano, 951, Buenos Aires, Argentina
+                  Oficinas en San Pedro - Consultar por Nuestras Redes Sociales
                 </span>
               </address>
             </li>
