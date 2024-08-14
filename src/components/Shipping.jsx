@@ -58,7 +58,7 @@ export const Shipping = () => {
                     <p className="time">Recibilo en 48 horas</p>
                 </div>
                 <div className="price">
-                    <p>$1000</p>
+                    <p>A consultar</p>
                 </div>
             </li>
             <li>
@@ -67,7 +67,7 @@ export const Shipping = () => {
                     <p className="time">Envio flex en un maximo 24 horas</p>
                 </div>
                 <div className="price">
-                    <p>$2500</p>
+                    <p>$12500</p>
                 </div>
             </li>
         </ul>
