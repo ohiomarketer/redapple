@@ -65,7 +65,7 @@ export const Footer = () => {
               <a href="tel:+557343673257" className="footer-link">
                 <ion-icon name="call"></ion-icon>
 
-                <span className="footer-link-text">+(59) 11-6630-1935</span>
+                <span className="footer-link-text">11-6630-1935</span>
               </a>
             </li>
 
