@@ -62,18 +62,10 @@ export const Footer = () => {
             </li>
 
             <li>
-              <a href="tel:+557343673257" className="footer-link">
-                <ion-icon name="call"></ion-icon>
-
-                <span className="footer-link-text">11-6630-1935</span>
-              </a>
-            </li>
-
-            <li>
               <a href="mailto:iphonetemple39@gmail.com" className="footer-link">
                 <ion-icon name="mail"></ion-icon>
 
-                <span className="footer-link-text">iphonetemple39@gmail.com</span>
+                <span className="footer-link-text">phonesmarketer@gmail.com</span>
               </a>
             </li>
 
